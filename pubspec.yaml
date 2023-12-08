@@ -1,0 +1,87 @@
+name: flutter_application_5
+description: A new Flutter project.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.1.4 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/shoes.jpeg
+    - assets/shoes.png
+    - assets/shoes1.jpeg
+    - assets/shoes2.jpeg
+    - assets/shoes3.jpeg
+    - assets/shoes4.jpeg
+    - assets/shoes5.jpeg
+    - assets/shoes6.jpeg
+    - assets/shoes7.jpeg
+    - assets/shoes8.jpeg
+    - assets/shoes9.jpeg
+    - assets/shoes10.jpeg
+    - assets/shoes11.jpeg
+    - assets/top.png
+    - assets/watches.png
+    - assets/heels1.jpg
+    - assets/pants1.jpg
+    - assets/accessories01.jpg
+    - assets/accessories02.jpg
+    - assets/accessories03.jpg
+    - assets/accessories04.jpg
+    - assets/accessories05.jpg
+    - assets/accessories06.jpg
+    - assets/accessories07.jpg
+    - assets/accessories08.jpg
+    - assets/accessories09.jpg
+    - assets/accessories10.jpg
+    - assets/accessories11.jpg
+    - assets/accessories12.jpg
+    - assets/all.png
+    - assets/heel.png
+    - assets/heels2.jpg
+    - assets/heels3.jpg
+    - assets/heels4.jpg
+    - assets/heels5.jpg
+    - assets/heels6.jpg
+    - assets/heels7.jpg
+    - assets/jackets1.jpg
+    - assets/jackets2.jpg
+    - assets/jackets3.jpg
+    - assets/jackets4.jpg
+    - assets/jackets5.jpg
+    - assets/jackets6.jpg
+    - assets/jackets7.jpg
+    - assets/jackets8.jpg
+    - assets/pants.png
+    - assets/pants1.jpg
+    - assets/pants2.jpg
+    - assets/pants3.jpg
+    - assets/pants4.jpg
+    - assets/pants5.jpg
+    - assets/pants6.jpg
+    - assets/pants7.jpg
+    - assets/pants8.jpg
+    - assets/shirt_icon.png
+    - assets/shirts1.jpg
+    - assets/shirts2.jpg
+    - assets/shirts3.jpg
+    - assets/shirts4.jpg
+    - assets/shirts5.jpg
+    - assets/shirts6.jpg      
+    - assets/shirts7.jpg
+
+    
+
+
